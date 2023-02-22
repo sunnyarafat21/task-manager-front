@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktask_manager_sunny_front=self.webpackChunktask_manager_sunny_front||[]).push([[216],{7216:function(n,a,s){s.r(a);s(2791);var t=s(184);a.default=function(){return(0,t.jsx)("div",{})}}}]);
+//# sourceMappingURL=216.f54c04c5.chunk.js.map

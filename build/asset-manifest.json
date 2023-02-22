@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03e536c3.css",
+    "main.js": "/static/js/main.ceac1a3f.js",
+    "static/js/326.410c61f0.chunk.js": "/static/js/326.410c61f0.chunk.js",
+    "static/js/800.ba11562a.chunk.js": "/static/js/800.ba11562a.chunk.js",
+    "static/js/687.ede8802f.chunk.js": "/static/js/687.ede8802f.chunk.js",
+    "static/js/640.ad56f4f2.chunk.js": "/static/js/640.ad56f4f2.chunk.js",
+    "static/js/383.78aa39f5.chunk.js": "/static/js/383.78aa39f5.chunk.js",
+    "static/js/30.d65b0211.chunk.js": "/static/js/30.d65b0211.chunk.js",
+    "static/js/738.783087e0.chunk.js": "/static/js/738.783087e0.chunk.js",
+    "static/js/797.5e8aa49c.chunk.js": "/static/js/797.5e8aa49c.chunk.js",
+    "static/js/498.8418af4e.chunk.js": "/static/js/498.8418af4e.chunk.js",
+    "static/js/216.f54c04c5.chunk.js": "/static/js/216.f54c04c5.chunk.js",
+    "static/js/830.8598e5a4.chunk.js": "/static/js/830.8598e5a4.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.56930a0057d0711c59ad86e14235f78e.svg",
+    "index.html": "/index.html",
+    "main.03e536c3.css.map": "/static/css/main.03e536c3.css.map",
+    "main.ceac1a3f.js.map": "/static/js/main.ceac1a3f.js.map",
+    "326.410c61f0.chunk.js.map": "/static/js/326.410c61f0.chunk.js.map",
+    "800.ba11562a.chunk.js.map": "/static/js/800.ba11562a.chunk.js.map",
+    "687.ede8802f.chunk.js.map": "/static/js/687.ede8802f.chunk.js.map",
+    "640.ad56f4f2.chunk.js.map": "/static/js/640.ad56f4f2.chunk.js.map",
+    "383.78aa39f5.chunk.js.map": "/static/js/383.78aa39f5.chunk.js.map",
+    "30.d65b0211.chunk.js.map": "/static/js/30.d65b0211.chunk.js.map",
+    "738.783087e0.chunk.js.map": "/static/js/738.783087e0.chunk.js.map",
+    "797.5e8aa49c.chunk.js.map": "/static/js/797.5e8aa49c.chunk.js.map",
+    "498.8418af4e.chunk.js.map": "/static/js/498.8418af4e.chunk.js.map",
+    "216.f54c04c5.chunk.js.map": "/static/js/216.f54c04c5.chunk.js.map",
+    "830.8598e5a4.chunk.js.map": "/static/js/830.8598e5a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03e536c3.css",
+    "static/js/main.ceac1a3f.js"
+  ]
+}
